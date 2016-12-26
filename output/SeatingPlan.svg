@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" width="594mm" height="420mm">
+<title>Seating Plan</title>
+<rect x="20mm" y="20mm" width="554mm" height="380mm" style="stroke: black; fill: none" />
+<ellipse cx="197mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="219.22222222222223mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="241.44444444444446mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="263.6666666666667mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="285.8888888888889mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="308.1111111111111mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="330.33333333333337mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="352.55555555555554mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="374.77777777777777mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="397mm" cy="62.5mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<rect x="185mm" y="62.5mm" width="224mm" height="25mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+<mask id="maskCaru">
+<rect x="185mm" y="62.5mm" width="224mm" height="25mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+</mask>
+<mask id="maskNegCaru">
+<rect x="-409mm" y="62.5mm" width="224mm" height="25mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+</mask>
+<image xlink:href="Caru.jpg"
+       x="329mm" y="40mm"
+       width="80mm" height="80mm"
+       mask="url(#maskCaru)"
+/>
+<image xlink:href="Caru.jpg"
+       x="-265mm" y="40mm"
+       width="80mm" height="80mm"
+       mask="url(#maskNegCaru)"
+       transform="scale(-1,1)"
+/>
+<text x="282mm" y="80mm" font-weight="bold" font-size="35pt" stroke="blue" fill="white" textLength="30mm" >Caru</text>
+<rect x="185mm" y="62.5mm" width="224mm" height="25mm" style="stroke: black; fill: none; stroke-width: 1mm" />
+<rect x="181mm" y="43mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="182mm" y="48mm" textLength="30mm" font-weight="bold" font-size="16pt" >Hayden Zieme</text>
+<rect x="203.22222222222223mm" y="52mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="204.22222222222223mm" y="57mm" textLength="30mm" font-weight="bold" font-size="16pt" >Mina Watsica</text>
+<rect x="220.44444444444446mm" y="43mm" width="42mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="221.44444444444446mm" y="48mm" textLength="40mm" font-weight="bold" font-size="16pt" >Aaliyah Champlin</text>
+<rect x="242.66666666666669mm" y="52mm" width="42mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="243.66666666666669mm" y="57mm" textLength="40mm" font-weight="bold" font-size="16pt" >Elizabeth Zulauf</text>
+<rect x="269.8888888888889mm" y="43mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="270.8888888888889mm" y="48mm" textLength="30mm" font-weight="bold" font-size="16pt" >Caesar Feest</text>
+<rect x="292.1111111111111mm" y="52mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="293.1111111111111mm" y="57mm" textLength="30mm" font-weight="bold" font-size="16pt" >Audrey Huels</text>
+<rect x="316.83333333333337mm" y="43mm" width="27mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="317.83333333333337mm" y="48mm" textLength="25mm" font-weight="bold" font-size="16pt" >Chyna Howe</text>
+<rect x="334.05555555555554mm" y="52mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="335.05555555555554mm" y="57mm" textLength="35mm" font-weight="bold" font-size="16pt" >Ezequiel Ortiz</text>
+<rect x="358.77777777777777mm" y="43mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="359.77777777777777mm" y="48mm" textLength="30mm" font-weight="bold" font-size="16pt" >Gracie Weber</text>
+<rect x="383.5mm" y="52mm" width="27mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="384.5mm" y="57mm" textLength="25mm" font-weight="bold" font-size="16pt" >Kali Stamm</text>
+<ellipse cx="147mm" cy="180mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="141.27050983124843mm" cy="197.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="126.27050983124842mm" cy="208.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="107.72949016875158mm" cy="208.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="92.72949016875157mm" cy="197.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="87mm" cy="180mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="92.72949016875157mm" cy="162.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="107.72949016875157mm" cy="151.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="126.27050983124842mm" cy="151.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="141.27050983124843mm" cy="162.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="117mm" cy="180mm" rx="30mm" ry="30mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+<radialGradient id="gradientWilliam" gradientUnits="objectBoundingBox"
+                fx="0%" fy="0%"
+                cx="50%" cy="50%"
+                r="40%">
+    <stop offset="0%"   stop-color="white" />
+    <stop offset="70%"  stop-color="white" />
+    <stop offset="100%" stop-color="black" />
+</radialGradient>
+<mask id="maskWilliam">
+    <rect
+          x="79.5mm" y="142.5mm"
+          width="75mm" height="75mm"
+          fill="url(#gradientWilliam)"  />
+</mask>
+<image xlink:href="William.jpg"
+       x="79.5mm" y="142.5mm"
+       width="75mm" height="75mm"
+       mask="url(#maskWilliam)"
+/>
+<text x="97mm" y="203mm" font-weight="bold" font-size="35pt" stroke="blue" fill="white" textLength="36mm" >William</text>
+<rect x="153mm" y="176.5mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="154mm" y="181.5mm" textLength="30mm" font-weight="bold" font-size="16pt" >Heather Hahn</text>
+<rect x="146.12461179749812mm" y="197.66026908252903mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="147.12461179749812mm" y="202.66026908252903mm" textLength="35mm" font-weight="bold" font-size="16pt" >Marlene Ledner</text>
+<rect x="128.12461179749812mm" y="210.73803458662553mm" width="29.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="129.12461179749812mm" y="215.73803458662553mm" textLength="27.5mm" font-weight="bold" font-size="16pt" >Connor Kihn</text>
+<rect x="73.8753882025019mm" y="210.73803458662553mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="74.8753882025019mm" y="215.73803458662553mm" textLength="30mm" font-weight="bold" font-size="16pt" >Shad Farrell</text>
+<rect x="60.875388202501895mm" y="197.66026908252903mm" width="27mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="61.875388202501895mm" y="202.66026908252903mm" textLength="25mm" font-weight="bold" font-size="16pt" >Alek Lesch</text>
+<rect x="46.5mm" y="176.5mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="47.5mm" y="181.5mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Marco Volkman</text>
+<rect x="53.375388202501895mm" y="155.33973091747097mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="54.375388202501895mm" y="160.33973091747097mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Haylee Klocko</text>
+<rect x="68.87538820250188mm" y="142.26196541337447mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="69.87538820250188mm" y="147.26196541337447mm" textLength="35mm" font-weight="bold" font-size="16pt" >Keaton Keeling</text>
+<rect x="128.1246117974981mm" y="142.26196541337447mm" width="42mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="129.1246117974981mm" y="147.26196541337447mm" textLength="40mm" font-weight="bold" font-size="16pt" >Brooklyn Weimann</text>
+<rect x="146.1246117974981mm" y="155.33973091747094mm" width="42mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="147.1246117974981mm" y="160.33973091747094mm" textLength="40mm" font-weight="bold" font-size="16pt" >Clotilde Sanford</text>
+<ellipse cx="237mm" cy="285mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="231.27050983124843mm" cy="302.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="216.27050983124843mm" cy="313.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="197.72949016875157mm" cy="313.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="182.72949016875157mm" cy="302.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="177mm" cy="285mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="182.72949016875157mm" cy="267.36644243122583mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="197.72949016875157mm" cy="256.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="216.2705098312484mm" cy="256.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="231.27050983124843mm" cy="267.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="207mm" cy="285mm" rx="30mm" ry="30mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+<radialGradient id="gradientShandy" gradientUnits="objectBoundingBox"
+                fx="0%" fy="0%"
+                cx="50%" cy="50%"
+                r="40%">
+    <stop offset="0%"   stop-color="white" />
+    <stop offset="70%"  stop-color="white" />
+    <stop offset="100%" stop-color="black" />
+</radialGradient>
+<mask id="maskShandy">
+    <rect
+          x="169.5mm" y="247.5mm"
+          width="75mm" height="75mm"
+          fill="url(#gradientShandy)"  />
+</mask>
+<image xlink:href="Shandy.jpg"
+       x="169.5mm" y="247.5mm"
+       width="75mm" height="75mm"
+       mask="url(#maskShandy)"
+/>
+<text x="187mm" y="308mm" font-weight="bold" font-size="35pt" stroke="blue" fill="white" textLength="36mm" >Shandy</text>
+<rect x="243mm" y="281.5mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="244mm" y="286.5mm" textLength="30mm" font-weight="bold" font-size="16pt" >Precious Rau</text>
+<rect x="236.12461179749812mm" y="302.66026908252906mm" width="42mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="237.12461179749812mm" y="307.66026908252906mm" textLength="40mm" font-weight="bold" font-size="16pt" >Vivianne Schmitt</text>
+<rect x="218.12461179749812mm" y="315.73803458662553mm" width="27mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="219.12461179749812mm" y="320.73803458662553mm" textLength="25mm" font-weight="bold" font-size="16pt" >Elza Bosco</text>
+<rect x="158.87538820250188mm" y="315.73803458662553mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="159.87538820250188mm" y="320.73803458662553mm" textLength="35mm" font-weight="bold" font-size="16pt" >Mathias Larson</text>
+<rect x="140.87538820250188mm" y="302.66026908252906mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="141.87538820250188mm" y="307.66026908252906mm" textLength="35mm" font-weight="bold" font-size="16pt" >Selina Streich</text>
+<rect x="131.5mm" y="281.5mm" width="39.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="132.5mm" y="286.5mm" textLength="37.5mm" font-weight="bold" font-size="16pt" >Soledad Simonis</text>
+<rect x="143.37538820250188mm" y="260.33973091747094mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="144.37538820250188mm" y="265.33973091747094mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Arvel Simonis</text>
+<rect x="158.87538820250188mm" y="247.26196541337447mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="159.87538820250188mm" y="252.26196541337447mm" textLength="35mm" font-weight="bold" font-size="16pt" >Alison Goldner</text>
+<rect x="218.1246117974981mm" y="247.26196541337447mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="219.1246117974981mm" y="252.26196541337447mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Cecelia Beier</text>
+<rect x="236.1246117974981mm" y="260.33973091747094mm" width="27mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="237.1246117974981mm" y="265.33973091747094mm" textLength="25mm" font-weight="bold" font-size="16pt" >Shad Ortiz</text>
+<ellipse cx="327mm" cy="180mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="321.27050983124843mm" cy="197.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="306.27050983124843mm" cy="208.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="287.72949016875157mm" cy="208.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="272.72949016875157mm" cy="197.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="267mm" cy="180mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="272.72949016875157mm" cy="162.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="287.72949016875157mm" cy="151.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="306.27050983124843mm" cy="151.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="321.27050983124843mm" cy="162.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="297mm" cy="180mm" rx="30mm" ry="30mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+<radialGradient id="gradientKyra" gradientUnits="objectBoundingBox"
+                fx="0%" fy="0%"
+                cx="50%" cy="50%"
+                r="40%">
+    <stop offset="0%"   stop-color="white" />
+    <stop offset="70%"  stop-color="white" />
+    <stop offset="100%" stop-color="black" />
+</radialGradient>
+<mask id="maskKyra">
+    <rect
+          x="259.5mm" y="142.5mm"
+          width="75mm" height="75mm"
+          fill="url(#gradientKyra)"  />
+</mask>
+<image xlink:href="Kyra.jpg"
+       x="259.5mm" y="142.5mm"
+       width="75mm" height="75mm"
+       mask="url(#maskKyra)"
+/>
+<text x="282mm" y="203mm" font-weight="bold" font-size="35pt" stroke="blue" fill="white" textLength="24mm" >Kyra</text>
+<rect x="333mm" y="176.5mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="334mm" y="181.5mm" textLength="35mm" font-weight="bold" font-size="16pt" >Ayden Medhurst</text>
+<rect x="326.1246117974981mm" y="197.66026908252903mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="327.1246117974981mm" y="202.66026908252903mm" textLength="35mm" font-weight="bold" font-size="16pt" >Helena Osinski</text>
+<rect x="308.1246117974981mm" y="210.73803458662553mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="309.1246117974981mm" y="215.73803458662553mm" textLength="35mm" font-weight="bold" font-size="16pt" >Vernie Jenkins</text>
+<rect x="251.37538820250188mm" y="210.73803458662553mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="252.37538820250188mm" y="215.73803458662553mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Kaci Donnelly</text>
+<rect x="235.87538820250188mm" y="197.66026908252903mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="236.87538820250188mm" y="202.66026908252903mm" textLength="30mm" font-weight="bold" font-size="16pt" >Mathew Green</text>
+<rect x="224mm" y="176.5mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="225mm" y="181.5mm" textLength="35mm" font-weight="bold" font-size="16pt" >Emerson Conroy</text>
+<rect x="230.87538820250188mm" y="155.33973091747097mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="231.87538820250188mm" y="160.33973091747097mm" textLength="35mm" font-weight="bold" font-size="16pt" >Marques Sawayn</text>
+<rect x="246.37538820250188mm" y="142.26196541337447mm" width="39.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="247.37538820250188mm" y="147.26196541337447mm" textLength="37.5mm" font-weight="bold" font-size="16pt" >Roberta Jenkins</text>
+<rect x="308.1246117974981mm" y="142.26196541337447mm" width="29.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="309.1246117974981mm" y="147.26196541337447mm" textLength="27.5mm" font-weight="bold" font-size="16pt" >Aida Barton</text>
+<rect x="326.1246117974981mm" y="155.33973091747094mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="327.1246117974981mm" y="160.33973091747094mm" textLength="35mm" font-weight="bold" font-size="16pt" >Nelson Mueller</text>
+<ellipse cx="417mm" cy="285mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="411.27050983124843mm" cy="302.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="396.27050983124843mm" cy="313.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="377.72949016875157mm" cy="313.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="362.72949016875157mm" cy="302.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="357mm" cy="285mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="362.72949016875157mm" cy="267.36644243122583mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="377.72949016875157mm" cy="256.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="396.27050983124843mm" cy="256.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="411.27050983124843mm" cy="267.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="387mm" cy="285mm" rx="30mm" ry="30mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+<radialGradient id="gradientGlockton" gradientUnits="objectBoundingBox"
+                fx="0%" fy="0%"
+                cx="50%" cy="50%"
+                r="40%">
+    <stop offset="0%"   stop-color="white" />
+    <stop offset="70%"  stop-color="white" />
+    <stop offset="100%" stop-color="black" />
+</radialGradient>
+<mask id="maskGlockton">
+    <rect
+          x="349.5mm" y="247.5mm"
+          width="75mm" height="75mm"
+          fill="url(#gradientGlockton)"  />
+</mask>
+<image xlink:href="Glockton.jpg"
+       x="349.5mm" y="247.5mm"
+       width="75mm" height="75mm"
+       mask="url(#maskGlockton)"
+/>
+<text x="367mm" y="308mm" font-weight="bold" font-size="35pt" stroke="blue" fill="white" textLength="36mm" >Glockton</text>
+<rect x="423mm" y="281.5mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="424mm" y="286.5mm" textLength="30mm" font-weight="bold" font-size="16pt" >Yasmin Olson</text>
+<rect x="416.1246117974981mm" y="302.66026908252906mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="417.1246117974981mm" y="307.66026908252906mm" textLength="35mm" font-weight="bold" font-size="16pt" >Neil Gulgowski</text>
+<rect x="398.1246117974981mm" y="315.73803458662553mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="399.1246117974981mm" y="320.73803458662553mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Dylan Kilback</text>
+<rect x="336.3753882025019mm" y="315.73803458662553mm" width="39.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="337.3753882025019mm" y="320.73803458662553mm" textLength="37.5mm" font-weight="bold" font-size="16pt" >Patience Ernser</text>
+<rect x="323.3753882025019mm" y="302.66026908252906mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="324.3753882025019mm" y="307.66026908252906mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Beatrice Bins</text>
+<rect x="326.5mm" y="281.5mm" width="24.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="327.5mm" y="286.5mm" textLength="22.5mm" font-weight="bold" font-size="16pt" >Isai Koss</text>
+<rect x="325.8753882025019mm" y="260.33973091747094mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="326.8753882025019mm" y="265.33973091747094mm" textLength="30mm" font-weight="bold" font-size="16pt" >Sylvan Boyer</text>
+<rect x="341.3753882025019mm" y="247.26196541337447mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="342.3753882025019mm" y="252.26196541337447mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Eldora Turner</text>
+<rect x="398.1246117974981mm" y="247.26196541337447mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="399.1246117974981mm" y="252.26196541337447mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Edward Carter</text>
+<rect x="416.1246117974981mm" y="260.33973091747094mm" width="34.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="417.1246117974981mm" y="265.33973091747094mm" textLength="32.5mm" font-weight="bold" font-size="16pt" >Breana Ledner</text>
+<ellipse cx="507mm" cy="180mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="501.27050983124843mm" cy="197.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="486.27050983124843mm" cy="208.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="467.72949016875157mm" cy="208.5316954888546mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="452.72949016875157mm" cy="197.6335575687742mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="447mm" cy="180mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="452.72949016875157mm" cy="162.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="467.72949016875157mm" cy="151.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="486.27050983124843mm" cy="151.4683045111454mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="501.27050983124843mm" cy="162.3664424312258mm" rx="8mm" ry="8mm" style="stroke: black; fill: rgb(128, 128, 128); stroke-width: 1mm" />
+<ellipse cx="477mm" cy="180mm" rx="30mm" ry="30mm" style="stroke: black; fill: rgb(200, 200, 200); stroke-width: 1mm" />
+<radialGradient id="gradientBrenin" gradientUnits="objectBoundingBox"
+                fx="0%" fy="0%"
+                cx="50%" cy="50%"
+                r="40%">
+    <stop offset="0%"   stop-color="white" />
+    <stop offset="70%"  stop-color="white" />
+    <stop offset="100%" stop-color="black" />
+</radialGradient>
+<mask id="maskBrenin">
+    <rect
+          x="439.5mm" y="142.5mm"
+          width="75mm" height="75mm"
+          fill="url(#gradientBrenin)"  />
+</mask>
+<image xlink:href="Brenin.jpg"
+       x="439.5mm" y="142.5mm"
+       width="75mm" height="75mm"
+       mask="url(#maskBrenin)"
+/>
+<text x="457mm" y="203mm" font-weight="bold" font-size="35pt" stroke="blue" fill="white" textLength="36mm" >Brenin</text>
+<rect x="513mm" y="176.5mm" width="29.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="514mm" y="181.5mm" textLength="27.5mm" font-weight="bold" font-size="16pt" >Aimee Boehm</text>
+<rect x="506.1246117974981mm" y="197.66026908252903mm" width="29.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="507.1246117974981mm" y="202.66026908252903mm" textLength="27.5mm" font-weight="bold" font-size="16pt" >Mariela Von</text>
+<rect x="488.1246117974981mm" y="210.73803458662553mm" width="39.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="489.1246117974981mm" y="215.73803458662553mm" textLength="37.5mm" font-weight="bold" font-size="16pt" >Coty Vandervort</text>
+<rect x="428.8753882025019mm" y="210.73803458662553mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="429.8753882025019mm" y="215.73803458662553mm" textLength="35mm" font-weight="bold" font-size="16pt" >Dina Gulgowski</text>
+<rect x="405.8753882025019mm" y="197.66026908252903mm" width="42mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="406.8753882025019mm" y="202.66026908252903mm" textLength="40mm" font-weight="bold" font-size="16pt" >Jensen McDermott</text>
+<rect x="416.5mm" y="176.5mm" width="24.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="417.5mm" y="181.5mm" textLength="22.5mm" font-weight="bold" font-size="16pt" >Amir Mann</text>
+<rect x="415.8753882025019mm" y="155.33973091747097mm" width="32mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="416.8753882025019mm" y="160.33973091747097mm" textLength="30mm" font-weight="bold" font-size="16pt" >Kieran Morar</text>
+<rect x="436.3753882025019mm" y="142.26196541337447mm" width="29.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="437.3753882025019mm" y="147.26196541337447mm" textLength="27.5mm" font-weight="bold" font-size="16pt" >Caesar Will</text>
+<rect x="488.1246117974981mm" y="142.26196541337447mm" width="37mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="489.1246117974981mm" y="147.26196541337447mm" textLength="35mm" font-weight="bold" font-size="16pt" >Laisha Gerlach</text>
+<rect x="506.1246117974981mm" y="155.33973091747094mm" width="29.5mm" height="7mm" style="stroke: black; fill: white;" />
+<text x="507.1246117974981mm" y="160.33973091747094mm" textLength="27.5mm" font-weight="bold" font-size="16pt" >Maximus Fay</text>
+<text x="237mm" y="375mm" font-weight="bold" font-size="108pt" >Seating</text>
+</svg>

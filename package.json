@@ -1,0 +1,27 @@
+{
+    "name": "SeatingPlan",
+    "description": "Seating plan for my wedding",
+    "url": "https://github.com/Antony74/wedding/SeatingPlan",
+    "author": {
+        "name": "Antony Bartlett",
+        "email": "akb@akb.me.uk"
+    },
+    "repository": {
+        "type": "git",
+	    "url": "https://github.com/Antony74/seating-plan-js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "jshint": "2.8.0",
+        "true": "0.0.2",
+		"faker":  "3.0.1"
+		},
+    "scripts": {
+        "lint": "jshint --extract auto --extra-ext .html . || node node_modules/true/index.js"
+    },
+    "version": "1.0.0",
+    "readme": "Seating plan for my wedding",
+    "bugs": {
+		"url": "https://github.com/Antony74/wedding/issues"
+    }
+}
